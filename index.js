@@ -1,5 +1,3 @@
-const App = ({ name }) => {
-  <div>Welcome {name}, on app</div>;
-};
+const add = (num1, num2) => num1 + num2;
 
-export default App;
+export { add };

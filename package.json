@@ -1,23 +1,24 @@
 {
-  "name": "react-multi-range-slider",
+  "name": "add-two-numberss",
   "version": "1.0.0",
-  "description": "react-multi-range-slider",
+  "description": "add-two-numberss",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ankushchavaninfo/react-multi-range-slider.git"
+    "url": "git+https://github.com/ankushchavaninfo/add-two-numberss.git"
   },
   "keywords": [
-    "react",
-    "ract-range-slider"
+    "add-two-numberss",
+    "addition"
   ],
   "author": "Ankush Chavan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ankushchavaninfo/react-multi-range-slider/issues"
+    "url": "https://github.com/ankushchavaninfo/add-two-numberss/issues"
   },
-  "homepage": "https://github.com/ankushchavaninfo/react-multi-range-slider#readme"
+  "homepage": "https://github.com/ankushchavaninfo/add-two-numberss#readme"
 }
